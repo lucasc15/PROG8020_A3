@@ -1,0 +1,14 @@
+C:\Users\curra\Documents\school\prog8020\assignments\assignment3\RewardPointCalculator\RewardPointCalculator\bin\Debug\RewardPointCalculator.exe.config
+C:\Users\curra\Documents\school\prog8020\assignments\assignment3\RewardPointCalculator\RewardPointCalculator\bin\Debug\RewardPointCalculator.exe
+C:\Users\curra\Documents\school\prog8020\assignments\assignment3\RewardPointCalculator\RewardPointCalculator\bin\Debug\RewardPointCalculator.pdb
+C:\Users\curra\Documents\school\prog8020\assignments\assignment3\RewardPointCalculator\RewardPointCalculator\obj\Debug\RewardPointCalculator.csprojResolveAssemblyReference.cache
+C:\Users\curra\Documents\school\prog8020\assignments\assignment3\RewardPointCalculator\RewardPointCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\curra\Documents\school\prog8020\assignments\assignment3\RewardPointCalculator\RewardPointCalculator\obj\Debug\App.g.cs
+C:\Users\curra\Documents\school\prog8020\assignments\assignment3\RewardPointCalculator\RewardPointCalculator\obj\Debug\RewardPointCalculator_MarkupCompile.cache
+C:\Users\curra\Documents\school\prog8020\assignments\assignment3\RewardPointCalculator\RewardPointCalculator\obj\Debug\RewardPointCalculator_MarkupCompile.lref
+C:\Users\curra\Documents\school\prog8020\assignments\assignment3\RewardPointCalculator\RewardPointCalculator\obj\Debug\MainWindow.baml
+C:\Users\curra\Documents\school\prog8020\assignments\assignment3\RewardPointCalculator\RewardPointCalculator\obj\Debug\RewardPointCalculator.g.resources
+C:\Users\curra\Documents\school\prog8020\assignments\assignment3\RewardPointCalculator\RewardPointCalculator\obj\Debug\RewardPointCalculator.Properties.Resources.resources
+C:\Users\curra\Documents\school\prog8020\assignments\assignment3\RewardPointCalculator\RewardPointCalculator\obj\Debug\RewardPointCalculator.csproj.GenerateResource.Cache
+C:\Users\curra\Documents\school\prog8020\assignments\assignment3\RewardPointCalculator\RewardPointCalculator\obj\Debug\RewardPointCalculator.exe
+C:\Users\curra\Documents\school\prog8020\assignments\assignment3\RewardPointCalculator\RewardPointCalculator\obj\Debug\RewardPointCalculator.pdb
